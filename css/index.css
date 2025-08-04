@@ -202,7 +202,7 @@ text-align: center;
 }
 
 .nos{
-   background-image: url(/img/nosotros.jpg);
+   background-image: url(img/nosotros.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
